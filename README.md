@@ -9,25 +9,25 @@ I’m a dedicated and creative 🎮Game Developer with a strong passion for craf
 •	Languages		    : C++, C#, Java   
 •	Game Engine			: Unity    
 •	Source Control 	: Git    
-•	Design Patterns	: MVC, Singleton, Object Pooling, Command Pattern, Observer Pattern,
-                    State Machine, Service Locator,Fctory Pattern,Strategy Pattern      
+•	Design Patterns	: MVC, Singleton, Object Pooling, Command Pattern, Observer Pattern,   
+                    State Machine, Service Locator,Fctory Pattern,Strategy Pattern         
                     
 **Projects**
 
 I have developed a variety of projects across different genres, including action-adventure, puzzles, platformer, educational and text-based games. This diverse experience has enriched my understanding of game mechanics and design principles.
-•	Educational: Code Hopper
-•	Action-Adventure: Block Adventure
-•	Puzzles: Jigsaw Puzzle
-•	Platformer: Virtual Guy Runner
-•	Arcade: Snake
-•	Text-Based: Connet4, Minesweeper
+•	Educational: Code Hopper   
+•	Action-Adventure: Block Adventure   
+•	Puzzles: Jigsaw Puzzle   
+•	Platformer: Virtual Guy Runner   
+•	Arcade: Snake   
+•	Text-Based: Connet4, Minesweeper   
 
 **Links**
 
-•	Github    : https://github.com/Sega-13
-•	LinkedIn  : https://www.linkedin.com/in/sega-patidar-bb905b130/
-•	Portfolio : https://segapatidar.wixsite.com/the-portfolio
-•	Itch      : https://segapatidar.itch.io/
+•	Github    : https://github.com/Sega-13   
+•	LinkedIn  : https://www.linkedin.com/in/sega-patidar-bb905b130/   
+•	Portfolio : https://segapatidar.wixsite.com/the-portfolio   
+•	Itch      : https://segapatidar.itch.io/   
 
                    
                     
