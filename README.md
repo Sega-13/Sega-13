@@ -6,11 +6,11 @@ I’m a dedicated and creative 🎮Game Developer with a strong passion for craf
 
 **Core Skills**
 
-•	Languages		    : C++, C#, Java
-•	Game Engine			: Unity 
-•	Source Control 	: Git 
+•	Languages		    : C++, C#, Java   
+•	Game Engine			: Unity    
+•	Source Control 	: Git    
 •	Design Patterns	: MVC, Singleton, Object Pooling, Command Pattern, Observer Pattern,
-                    State Machine, Service Locator,Fctory Pattern,Strategy Pattern   
+                    State Machine, Service Locator,Fctory Pattern,Strategy Pattern      
                     
 **Projects**
 
